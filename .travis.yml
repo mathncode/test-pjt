@@ -18,7 +18,7 @@ cache:
 script: "./gradlew clean build"
 
 before_deploy:
-  - zip -r test-pjt
+  - zip -r test-pjt *
   - mkdir -p deploy
   - mv test-pjt.zip deploy/test-pjt.zip
 
