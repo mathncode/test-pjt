@@ -4,4 +4,4 @@
 > 2. 기타 필요한 부분은 웹 검색을 통해 보충합니다.
 > 3. 2~3회독, 반복 실습 후 추가 강의와 책을 공부 합니다.
 
-접속주소 : http://ec2-13-209-243-252.ap-northeast-2.compute.amazonaws.com:8080
+완성된 게시판: http://ec2-13-209-243-252.ap-northeast-2.compute.amazonaws.com:8080
